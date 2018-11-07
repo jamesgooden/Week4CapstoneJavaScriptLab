@@ -1,0 +1,41 @@
+
+
+body {
+  width: auto;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px;
+  font-size: 30px;
+  margin: 30px;
+  color: #444;
+  flex: auto;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 25px;
+  width: auto;
+  transition: all 0.5s;
+}
+
+#Inventory {
+  padding: 5px;
+  background-color: white;
+  width: auto;
+}
+
+#cart {
+  padding: 5px;
+  background-color: white;
+  width: auto;
+}
+
+#total {
+  padding: 5px;
+  background-color: green;
+  width: auto;
+}
